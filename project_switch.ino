@@ -1,3 +1,9 @@
+/*
+ *Skeč za potrebe članka u Svetu Kompjutera 
+ *Author: Petrović Dejan
+ *Date: 26/03/2018
+ *NodeMCU, 4ch relej modul, httm touch modul
+ */
 #define BLYNK_PRINT Serial
 
 #include <ESP8266WiFi.h>
