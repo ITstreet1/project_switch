@@ -11,12 +11,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "54b8b03edd494f4a885171e47adf0a9e";
+char auth[] = "****** auth token*****";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "dekip_network";
-char pass[] = "0611975itstreet";
+char ssid[] = "****SSID lokalne mreže*****";
+char pass[] = "****lozinka******";
 
 // Set your LED and physical button pins here
 const int rlyPin1 = 13;
